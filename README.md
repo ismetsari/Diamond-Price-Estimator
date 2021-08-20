@@ -1,2 +1,2 @@
 # diamondpriceestimator
-a regression project which determines prices of diamonds.
+A regression project which determines prices of diamonds.
